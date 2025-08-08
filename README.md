@@ -1,2 +1,4 @@
-# NovaStack1
-ReadMe
+# NavStack
+
+> **Building the future, one hackathon at a time.**
+
