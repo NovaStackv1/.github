@@ -26,16 +26,16 @@ We craft intelligent mobile experiences that make a difference. From AI-powered 
 Our diverse team brings together expertise across the entire mobile development stack:
 
 **DevJude254** - *Flutter Specialist*  
-Cross-platform mobile development, UI/UX implementation, and rapid prototyping
+> Cross-platform mobile development, UI/UX implementation, and rapid prototyping
 
 **NATO-dotcom** - *ML Engineer*  
-Machine learning model development, AI integration, and intelligent system design
+> Machine learning model development, AI integration, and intelligent system design
 
 **DevKorrir** - *Kotlin UI Developer*  
-Native Android development with Jetpack Compose, modern UI architecture
+> Native Android development with Jetpack Compose, modern UI architecture
 
 **Wamitinewton** - *Backend & Android Engineer*  
-Kotlin/Java backend services, Android development, and system architecture
+> Kotlin/Java backend services, Android development, and system architecture
 
 ---
 
