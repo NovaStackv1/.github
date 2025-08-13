@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 
 **Here are some ideas to get you started:**
@@ -11,7 +9,7 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-# NavStack
+<h1 align="center">Welcome to NavStack 👋</h1>
 
 > **Building the future, one hackathon at a time.**
 
@@ -40,4 +38,60 @@ Native Android development with Jetpack Compose, modern UI architecture
 Kotlin/Java backend services, Android development, and system architecture
 
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+<p align="center">
+  💡 *We believe in collaboration, innovation, and making technology work for people.*
+</p>
 
