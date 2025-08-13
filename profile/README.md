@@ -39,6 +39,12 @@ Our diverse team brings together expertise across the entire mobile development 
 
 ---
 
+## 🛠️ Tech Stack
+We work with:
+- **Languages:** Kotlin, Flutter, Python, Java, 
+- **Frameworks & Tools:** Jetpack Compose, Dart, SpringBoot, Firebase, 
+- **Platforms:** Web, Android, iOS, Cloud
+
 
 
 
