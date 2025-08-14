@@ -95,9 +95,16 @@ We work with:
 
 
 
+
+
+
 ---
 
-<p align="center">
+<div align="center">
   💡 *We believe in collaboration, innovation, and making technology work for people.*
-</p>
+  
+  *Crafted with ❤️ by the NavStack Team*
+</div>
+
+> *"Innovation distinguishes between a leader and a follower."* - We don't just build apps; we build the future.
 
